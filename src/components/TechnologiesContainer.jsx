@@ -11,12 +11,12 @@ import {
 } from "react-icons/di";
 
 const technologies = [
-  { id: "html", name: "HTML5", icon: <DiHtml5 /> },
-  { id: "css", name: "CSS3", icon: <DiCss3 /> },
+  { id: "Spring-Boot", name: "Spring-Boot", icon: <SiSpring /> },
+  { id: "java", name: "java", icon: <DiJava /> },
   { id: "js", name: "JavaScript", icon: <DiJsBadge /> },
   { id: "react", name: "React", icon: <DiReact /> },
-  { id: "java", name: "java", icon: <DiJava /> },
-  { id: "Spring-Boot", name: "Spring-Boot", icon: <SiSpring /> },
+  { id: "html", name: "HTML5", icon: <DiHtml5 /> },
+  { id: "css", name: "CSS3", icon: <DiCss3 /> },
 
   { id: "mysql", name: "MySQL", icon: <DiMysql /> },
 ];

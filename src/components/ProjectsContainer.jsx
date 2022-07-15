@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import "../styles/components/ProjectsContainer.sass";
 
 const ProjectsContainer = () => {
@@ -11,7 +12,7 @@ const ProjectsContainer = () => {
         non blandit. Elementum sagittis vitae et leo duis. Cras fermentum odio
         eu feugiat pretium nibh. Amet consectetur
       </p>
-      <a href="#" className="btn">
+      <a href="https://github.com/Guuhp" className="btn">
         Ver Projetos
       </a>
     </section>
